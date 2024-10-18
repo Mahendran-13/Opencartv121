@@ -9,7 +9,7 @@ public class HomePage  extends BasePage{
 	//constructor
 	public HomePage(WebDriver driver)
 	{
-	super(driver);
+	super(driver);  //calls the constructor of base page 
 	}
 	
 	
